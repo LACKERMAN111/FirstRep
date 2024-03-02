@@ -24,7 +24,7 @@ class navigator{
         })
     }
 }
-
+sasasas
 document.addEventListener('DOMContentLoaded', ()=>{
     new Navigation()
 })
